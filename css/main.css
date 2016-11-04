@@ -33,15 +33,15 @@ li a:hover{
 }
 
 .btn{
-  border-radius: 50px;
-  border-style: none;
-  border:none;
+  	border-radius: 50px;
+  	border-style: none;
+  	border:none;
 }
 
 #sobremi{
-  background-color: #F05F40;
-  height: 300px;
-  padding-top: 5%;
+  	background-color: #F05F40;
+  	height: 300px;
+  	padding-top: 5%;
 }
 
 .orange{
